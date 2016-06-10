@@ -233,7 +233,8 @@ function create_config( )
 	"msg_checks",
         "write",
         "plugins",
-        "up"
+        "up",
+        "info"
         
     },
     sudo_users = {108800687},--Sudo users
